@@ -111,3 +111,10 @@
 
 > 🎯 父母最大的贡献不是教孩子“对的答案”，
 > 而是陪他们练出“自己找答案的能力”。
+
+---
+加我微信<br>
+<img src="./images/huhao.jpg" alt="加我微信" width="300"/> <br>
+给我打赏<br>
+<img src="./images/zanshang.jpg" alt="给我打赏" width="300"/>
+---

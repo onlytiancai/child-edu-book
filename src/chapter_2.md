@@ -96,3 +96,10 @@
 
 * 家长不要代替，而是**陪他一起复盘和练习**；
 * 不对孩子社交失败进行羞辱，而是提供改进策略。
+
+---
+加我微信<br>
+<img src="./images/huhao.jpg" alt="加我微信" width="300"/> <br>
+给我打赏<br>
+<img src="./images/zanshang.jpg" alt="给我打赏" width="300"/>
+---

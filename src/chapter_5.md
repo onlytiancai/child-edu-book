@@ -112,3 +112,10 @@
 ## 🌱 总结：学习能力 ≠ 会听话，而是愿意、会思考、能坚持
 
 > 🎯 “不逼他学，而是教会他如何学、为什么学、学得有成就。”
+
+---
+加我微信<br>
+<img src="./images/huhao.jpg" alt="加我微信" width="300"/> <br>
+给我打赏<br>
+<img src="./images/zanshang.jpg" alt="给我打赏" width="300"/>
+---

@@ -131,3 +131,10 @@
 
 **好奇心是求知的发动机，创造力是改变世界的工具。**
 你的任务不是灌输知识，而是帮孩子守护好这两样宝藏。
+
+---
+加我微信<br>
+<img src="./images/huhao.jpg" alt="加我微信" width="300"/> <br>
+给我打赏<br>
+<img src="./images/zanshang.jpg" alt="给我打赏" width="300"/>
+---

@@ -110,3 +110,10 @@
 ## 🌱 总结：培养独立的核心是“信任 + 机会 + 成长空间”
 
 > **“你信任孩子能做的，他才会成长为能做的。”**
+
+---
+加我微信<br>
+<img src="./images/huhao.jpg" alt="加我微信" width="300"/> <br>
+给我打赏<br>
+<img src="./images/zanshang.jpg" alt="给我打赏" width="300"/>
+---

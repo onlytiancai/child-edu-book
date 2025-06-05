@@ -127,3 +127,10 @@
 ## 🌱 总结：沟通力 = 敢表达 + 会表达 + 理解别人
 
 > 🎯“语言是思维的镜子，表达是未来最重要的竞争力。”
+
+---
+加我微信<br>
+<img src="./images/huhao.jpg" alt="加我微信" width="300"/> <br>
+给我打赏<br>
+<img src="./images/zanshang.jpg" alt="给我打赏" width="300"/>
+---

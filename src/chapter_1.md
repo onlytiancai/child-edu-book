@@ -81,3 +81,10 @@
 > **自我管理 = 情绪识别 + 情绪调节 + 行为负责**
 > 这是一个逐步练习、不断打磨的过程，特别是在3\~12岁阶段是关键期。
 
+
+---
+加我微信<br>
+<img src="./images/huhao.jpg" alt="加我微信" width="300"/> <br>
+给我打赏<br>
+<img src="./images/zanshang.jpg" alt="给我打赏" width="300"/>
+---

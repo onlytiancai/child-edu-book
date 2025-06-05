@@ -115,3 +115,10 @@
 ---
 
 ## 🎯 总结：真正的自信不是“我什么都好”，而是“我了解我自己，接受我自己，愿意让自己变更好”。
+
+---
+加我微信<br>
+<img src="./images/huhao.jpg" alt="加我微信" width="300"/> <br>
+给我打赏<br>
+<img src="./images/zanshang.jpg" alt="给我打赏" width="300"/>
+---

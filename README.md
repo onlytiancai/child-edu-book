@@ -6,5 +6,12 @@ AI 生成的儿童培养手册
 
 debug
 
-    ~/download/mdbook serve --port 3002 --hostname 0.0.0.0
+    ~/download/mdbook serve --port 3002 --hostname 0.0.0.0 -w 3004
 
+build
+
+    ~/download/mdbook build
+
+sync
+
+    rsync -avP ./book/* /home/ubuntu/src/html/child-edu-book
